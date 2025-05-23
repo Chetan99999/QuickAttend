@@ -23,7 +23,7 @@ The **Face Recognition-Based Attendance System** is a Python-based project desig
 
 - **Frontend**: Tkinter for GUI
 - **Backend**: Flask (Optional for web access), OpenCV, MySQL
-- **Database**: MySQL
+- **Database**: MySQL Workbench
 
 ---
 
